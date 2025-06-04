@@ -18,22 +18,22 @@
         "type": "Insurance Platform",
         "images": [
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/01/01.webp"
             },
             {
-                "depend": "http://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/01/02.webp"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/01/03.webp"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/01/04.webp"
             },
@@ -43,7 +43,7 @@
                 "url": "imgs/01/05.webp"
             }
         ],
-        "logo_url": "https://209.74.87.89/imgs/01/00.jpeg",
+        "logo_url": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/imgs/01/00.jpeg",
         "used": [
             "PHP(Laravel)",
             "MySQL",
@@ -76,37 +76,37 @@
         "type": "E-commerce",
         "images": [
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/02/01.png"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/02/02.png"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/02/03.png"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/02/04.png"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/02/05.png"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/02/06.png"
             }
         ],
-        "logo_url": "https://209.74.87.89/imgs/02/00.webp",
+        "logo_url": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/imgs/02/00.webp",
         "used": [
             "PHP & Laravel",
             "Node.js",
@@ -135,22 +135,22 @@
         "type": "POS",
         "images": [
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/03/01.jpeg"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/03/02.jpeg"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/03/03.jpeg"
             },
              {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/03/04.jpeg"
             }
@@ -181,22 +181,22 @@
         "type": "Website",
         "images": [
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/04/01.jpeg"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/04/02.jpeg"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/04/03.jpeg"
             }
         ],
-        "logo_url": "https://209.74.87.89/imgs/04/00.png",
+        "logo_url": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/imgs/04/00.png",
         "used": [
             "PHP & Laravel",
             "MySQL",
@@ -222,17 +222,17 @@
         "type": "Website",
         "images": [
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/05/01.jpeg"
             },
             {
-                "depend": "https://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/05/logo.png"
             }
         ],
-        "logo_url": "https://209.74.87.89/imgs/05/logo.png",
+        "logo_url": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/imgs/05/logo.png",
         "used": [
             "PHP & Laravel",
             "MySQL",
