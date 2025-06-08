@@ -38,7 +38,7 @@
                 "url": "imgs/01/04.webp"
             },
             {
-                "depend": "http://209.74.87.89/",
+                "depend": "https://raw.githubusercontent.com/ShineShineDev/ShineShineDev/refs/heads/main/",
                 "desc": "",
                 "url": "imgs/01/05.webp"
             }
